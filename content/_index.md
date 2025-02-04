@@ -9,15 +9,12 @@ OY, YOU THERE!! WOT are you doing in me forest, eh?
 ```
 
 ## walcam to ~masterle's korok4est.
-welcome to the GRAND 🌱 [[notes/about-this-site.md|korok4est]] 🌱, where clinical wisdom meets digital exploration! This is no ordinary forest - it's a living collection of medical knowledge, technical adventures, and the wonderful chaos that happens when they collide.
-
-welcome to the GRAND 🌱 [[notes/about-this-site|korok4est]] 🌱, where clinical wisdom meets digital exploration! Like a healing fairy fountain for the mind, this space nurtures the growth of medical knowledge, technical discoveries, and the beautiful chaos where they intertwine.
+welcome to the GRAND 🌱 [[notes/about-this-site.md|korok4est]] 🌱, but beware... for this is no ordinary forest - it's my living digital notebook, soon to be filled with my experiences as a poor, sad medical school-dropout who finds herself venturing upon a _(very)_ surprising journey into tech. **SO,** be prepared for the chaos that runs thru my minds when all of these interests collide.
 
 well, *go on*, choose yo fate:
 
 ### 🗺️ main trails
 - take a gander at my latest [[notes/incubations|incubations]]?
-
 
 ### 📜 the lore
 - uncover the origin story of [[notes/about-me.md|the master, herself]]? 
