@@ -9,7 +9,9 @@ OY, YOU THERE!! WOT are you doing in me forest, eh?
 ```
 
 ## walcam to ~masterle's korok4est.
-welcome to the GRAND 🌱 [[notes/digital-garden.md|korok4est]] 🌱, where clinical wisdom meets digital exploration! This is no ordinary forest - it's a living collection of medical knowledge, technical adventures, and the wonderful chaos that happens when they collide.
+welcome to the GRAND 🌱 [[notes/about-this-site.md|korok4est]] 🌱, where clinical wisdom meets digital exploration! This is no ordinary forest - it's a living collection of medical knowledge, technical adventures, and the wonderful chaos that happens when they collide.
+
+welcome to the GRAND 🌱 [[about-this-site|korok4est]] 🌱, where clinical wisdom meets digital exploration! Like a healing fairy fountain for the mind, this space nurtures the growth of medical knowledge, technical discoveries, and the beautiful chaos where they intertwine.
 
 well, *go on*, choose yo fate:
 
