@@ -75,11 +75,9 @@ Just like in CLUE, the masterful clinician:
 
 
 > [!detective]- DARE to see an example? 🔍
-> _**ya ha ha! 🌱** You've discovered a curious case! Follow Detective Le through [[notes/pillars case 11-2|The Case of the Adrenal Abduction]] where we turned a pheochromocytoma diagnosis into an actual game of CLUE! Complete with suspects (differential diagnoses), evidence rooms (diagnostic tools), and even special game mechanics for clinical reasoning!_
+> _**ya ha ha! 🌱** You've discovered a curious case!_ Follow Detective Le through [[notes/pillars case 11-2|The Case of the Adrenal Abduction]] where we turned a pheochromocytoma diagnosis into an actual game of CLUE! Complete with suspects (differential diagnoses), evidence rooms (diagnostic tools), and even special game mechanics for clinical reasoning!
 > 
 > *Will YOU solve the case before revealing what's in the Evidence Envelope?* 👀
-## DARE to see an example? 
-WELL, [[notes/pillars case 11-2]]- a clinical case where we turned differential diagnosis into an actual game of CLUE! 
 
 ## Why This Matters
 Every patient encounter is a mystery waiting to be solved. The stakes? Much higher than any board game. But the process - the careful gathering of clues, the strategic questioning, the methodical elimination of possibilities - that's what makes medicine an art as much as a science.
