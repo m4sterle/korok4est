@@ -18,7 +18,7 @@ well, *go on*, choose yo fate:
 ### 🍗 master le, inc.
 
 - meet the [[posts/about me|ceo of this whole 'mf thang]]?
-- or perhaps... uncover details on the company that calls themselves... [[Master Le, Inc.]]?
+- or perhaps... uncover details on the company that calls themselves... [[thoughts/Master Le, Inc.]]?
 - hmmm wot about their latest [[incubations]]?
 
 ### 🌱 navigating this forest
