@@ -40,7 +40,7 @@ Unlike previous challenges I'd faced—like the boyfriend who cheated on me fres
 
 Here's where it gets interesting—while struggling through medical education, I found myself increasingly drawn to systematic thinking, knowledge management tools, and the ways technology could enhance learning and clinical reasoning.
 
-The [[korok4est|korok4est]] started as simply a way to document my medical knowledge and personal growth (and play with [[journal/pixel-art|pixel art]], because why not?). But somehow, almost accidentally, this project became my gateway into the tech world.
+The [[posts/korok4est]] started as simply a way to document my medical knowledge and personal growth (and play with pixel art, because why not?). But somehow, almost accidentally, this project became my gateway into the tech world.
 
 From experimenting with digital gardens to learning web development, from discovering the fediverse to exploring the Gemini protocol—these technical explorations started bringing back the spark of curiosity and joy that had been missing.
 
@@ -60,9 +60,9 @@ Rather than choosing between my medical knowledge and technical interests, I'm d
 Currently, I'm at this fascinating intersection point where I'm:
 - Learning Python through this adorable course called "The Legend of Python" on Codedex (which speaks to both my inner YOG1TRON and my love for Legend of Zelda!)
 - Exploring AI applications in healthcare
-- Developing my [[korok4est|korok4est]] digital garden as an integration space
+- Developing my [[posts/korok4est]] digital garden as an integration space
 - Processing the complex grief of leaving medical education
-- Building a more holistic [[posts/masterle-inc|company structure]] for myself that honors all aspects of this journey
+- Building a more holistic [[thoughts/masterle inc|company structure]] for myself that honors all aspects of this journey
 
 ## The Reframed Quest
 
@@ -74,8 +74,4 @@ The road ahead is uncertain, but it's filled with unexpected treasures hidden un
 
 ## What's Next?
 
-I invite you to explore this [[korok4est|korok4est]] with me. Check out my [[main-trails]] or learn more about [[posts/masterle-inc|Master Le, Inc.]] as an organizational framework. Wherever you wander in this digital garden, you'll find pieces of this evolving story taking root and growing in real-time.
-
----
-
-*Last updated: March 13, 2025*
+Go learn more about [[thoughts/masterle inc|Master Le, Inc.]] as an organizational framework and the

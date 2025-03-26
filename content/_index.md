@@ -18,8 +18,8 @@ well, *go on*, choose yo fate:
 ### 🍗 master le, inc.
 
 - meet the [[posts/about me|ceo of this whole 'mf thang]]?
-- or perhaps... uncover details on the company that calls themselves... [[thoughts/Master Le, Inc.]]?
-- hmmm wot about their latest [[incubations]]?
+- or perhaps... uncover details on the company that calls themselves... [[thoughts/masterle inc|Master Le, Inc.]]?
+- hmmm wot about their latest [[thoughts/incubations]]?
 
 ### 🌱 navigating this forest
 
@@ -29,7 +29,7 @@ well, *go on*, choose yo fate:
 
 ## 📜 the lore
 
-- read the _REAL_ story behind why this site called the 'mf [[korok4est]].
+- read the _REAL_ story behind why this site called the 'mf [[posts/korok4est]].
 
 
 ```poetry
