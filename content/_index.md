@@ -1,26 +1,36 @@
 ---
-title: "jzhao.xyz"
+title: Welcome to the korok4est!
 tags:
   - evergreen
 ---
-<img src="./banner.svg" width="701" height="175">
+![[banner.jpg]]
 
 ```poetry
-Welcome!
+ya-ha-haaaaaaaaa!
 ```
 
-I'm Jacky. This is my little [[thoughts/hypertext|hypertext]] [[posts/networked-thought|garden]] on the [[thoughts/Internet|Internet]] -- make yourself at home!
+Welcome to the GRAND 🌱 korok4est 🌱 (aka, my digital garden) but beware... for this is no ordinary forest (digital garden) -  it's my living digital notebook, soon to be filled with my experiences as a poor, sad medical school-dropout who finds herself venturing upon a _(very)_ surprising journey into tech. **SO,** be prepared for the chaos that runs **amok** in my world when all of these interests collide.
 
-Currently, I'm exploring what [[thoughts/agency|agentic]] and [[posts/agentic-computing|communal]] technology looks like at [Replit](https://replit.com/) and through my [independent research practice](/tags/rhizome). How might we create infrastructures and technologies that empower the residents of the web to have access to the same tools as the architects?
+well, *go on*, choose yo fate:
 
-On a broader level, I care deeply about creating _[spaces](https://lu.ma/playspace)_ that enable others to have more [[thoughts/agency]]: agency to ask questions without judgement; agency to do what they are intrinsically drawn toward; agency to [[thoughts/play|play]] (because what's the point if we can't have a bit of fun?).
+## 🗺️ main trails
 
-As far as 'about' pages go, I hope this acts as an open invitation into the many winding paths throughout this garden. Here are some places you may want to visit:
+### 🍗 master le, inc.
 
-- [The oak letter desk](/posts/): a collection of my favourite [[thoughts/writing|writing]];
-- [The hand-crafted workbench](thoughts/craft.md): craft I am proud of (websites, talks, workshops, projects, etc.);
-- [The bookshelf on the far wall](/books): books that are in some state of read, being read, or to be read.
+- meet the [[posts/about-me|ceo of this whole 'mf thang]]?
+- or perhaps... meet the company called [[masterle-inc|master le, inc.]]…
+
+### 🌱 navigating this forest
+
+- see what the detective is up to over at the **ddxCLUE headquarters**?
+- take a gander at YOG1TRON's latest coding projects at **d4ta_d4wg technologies**?
+- or... be in complete awe as you discover the latest creations over at **CR4FT designs**, crafted skillfully and masterfully by none other than h3art le (now with more pixel art!)
+
+## 📜 the lore
+
+- read the _REAL_ story behind why this site called the 'mf korok4est.
+
 
 ```poetry
-- jacky :)
+- m4sterle 🍗
 ```
