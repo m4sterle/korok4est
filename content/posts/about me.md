@@ -1,5 +1,5 @@
 ---
-title: "About the 'mf CEO"
+title: About the 'mf CEO
 tags:
   - evergreen
 ---
