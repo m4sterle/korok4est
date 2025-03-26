@@ -1,6 +1,6 @@
 ---
 title: Korok Seed
 ---
-> *Korok seeds are initial, raw ideas or snippets of information, like fleeting thoughts jotted down quickly. The equivalent of xxx*
+> *Korok seeds are initial, raw ideas or snippets of information, like fleeting thoughts jotted down quickly. The equivalent of what other digital gardeners call their seedlings*
 
 > _I have a lot of sporadic thoughts these days. I mean, just take a gander at my raindrop bookmarks... and my cubox bookmarks... (why must I have **two** bookmarking apps?!!?) But my point is that I take a lot of inspiration from other people's works from all sorts of topics and these fuel my creative drive (sometimes a bit too much). So regardless of if this new trait of mine is good or bad, the seeds of this korok forest are collections of notes on articles, books, websites, readings, other ppl's creations, **WOTEVA** that I find interesting or super cool or has egged me on down the start of another rabbit hole where I learn things I had no predisposition towards learning before; sorta like a basis of my ideas and thoughts. **Also we are 'korok seeds' here cause them koroks cute af._

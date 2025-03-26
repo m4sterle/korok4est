@@ -6,7 +6,7 @@ tags:
 aliases:
   - Projects
 ---
-Ever since I designated this spot on the web to be called the _[[korok4est]]_, that 'mf [[Heart]] sort of took that concept and ran with it... So, *alas*, in this world... 
+Ever since I designated this spot on the web to be called the _[[korok4est]]_, that 'mf [[heart le]] sort of took that concept and ran with it... So, *alas*, in this world... 
 
 - Projects = [[incubations]]
 - Seeds = [[korok seed|korok seeds]] _(ya-ha-haaaaaaaaaaaaa! 🪴)_
