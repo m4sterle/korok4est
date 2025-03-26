@@ -24,7 +24,7 @@ There was just one problem.
 
 Ironically, it wasn't until I was already in medical school that I discovered my authentic answer to the dreaded "why medicine?" question that haunts every medical school application and interview.
 
-Throughout my time at Dell, I realized I had secretly signed up to play one epic, never-ending [[notes/game-of-clue|game of CLUE]] for a living—and I *loved* it. The process of differential diagnosis—collecting clues, ruling out suspects, making your final accusation—lit up my brain in ways nothing else had before.
+Throughout my time at Dell, I realized I had secretly signed up to play one epic, never-ending [[posts/game of clue|game of CLUE]] for a living—and I *loved* it. The process of differential diagnosis—collecting clues, ruling out suspects, making your final accusation—lit up my brain in ways nothing else had before.
 
 Clinical reasoning wasn't just another skill to master; it was a fundamental way of seeing the world that matched how my mind naturally works. At this point, every physician should be carrying a magnifying glass alongside their stethoscope, because fundamentally, **they're detectives solving the mysteries of human suffering**. This realization made Detective Le come alive.
 
@@ -58,11 +58,11 @@ Rather than choosing between my medical knowledge and technical interests, I'm d
 ## Where I Am Now
 
 Currently, I'm at this fascinating intersection point where I'm:
-- Learning Python through this adorable course called "The Legend of Python" on Codedex (which speaks to both my inner [[99 ARCHIVES/Capacities/People/YOG1TRON|YOG1TRON]] and my love for Legend of Zelda!)
+- Learning Python through this adorable course called "The Legend of Python" on Codedex (which speaks to both my inner YOG1TRON and my love for Legend of Zelda!)
 - Exploring AI applications in healthcare
 - Developing my [[korok4est|korok4est]] digital garden as an integration space
 - Processing the complex grief of leaving medical education
-- Building a more holistic [[notes/masterle-inc|company structure]] for myself that honors all aspects of this journey
+- Building a more holistic [[posts/masterle-inc|company structure]] for myself that honors all aspects of this journey
 
 ## The Reframed Quest
 
@@ -74,7 +74,7 @@ The road ahead is uncertain, but it's filled with unexpected treasures hidden un
 
 ## What's Next?
 
-I invite you to explore this [[korok4est|korok4est]] with me. Check out my [[main-trails]] or learn more about [[notes/masterle-inc|Master Le, Inc.]] as an organizational framework. Wherever you wander in this digital garden, you'll find pieces of this evolving story taking root and growing in real-time.
+I invite you to explore this [[korok4est|korok4est]] with me. Check out my [[main-trails]] or learn more about [[posts/masterle-inc|Master Le, Inc.]] as an organizational framework. Wherever you wander in this digital garden, you'll find pieces of this evolving story taking root and growing in real-time.
 
 ---
 

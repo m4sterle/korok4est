@@ -1,7 +1,5 @@
 ---
 title: "The Adrenal Abomination"
-tags:
-	- evergreen
 ---
 
 > “The adrenals need your help! There’s been a crime!” — Detective Le, PILLARS Session Leader
