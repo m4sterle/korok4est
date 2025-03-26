@@ -1,13 +1,18 @@
 ---
-title: Craft
-date: 2024-04-14
+title: Incubations
 tags:
   - evergreen
-  - technical
+  - personal
 aliases:
   - Projects
 ---
-I like to consider the work I do _craft_ -- not necessarily in the explicit hand-made aspect of it -- but rather a celebration of the act of making itself. What follows is a list of things I'm proud to have made or helped contribute to with my own hands.
+Ever since I designated this spot on the web to be called the _[[korok4est]]_, that 'mf [[Heart]] sort of took that concept and ran with it... So, *alas*, in this world... 
+
+- Projects = [[incubations]]
+- Seeds = [[korok seed|korok seeds]] _(ya-ha-haaaaaaaaaaaaa! 🪴)_
+- 
+
+ _craft_ -- not necessarily in the explicit hand-made aspect of it -- but rather a celebration of the act of making itself. What follows is a list of things I'm proud to have made or helped contribute to with my own hands.
 
 My (considerably longer) list of unfinished ideas can be found [here](thoughts/idea%20list.md). You can also find a list of things that didn't quite go so well in my [[posts/a-failure-resume|failure resume]].
 

@@ -81,7 +81,7 @@ Turning this case into a game accomplished several things:
 
 ## 🎮 From Tabletop to Terminal: The Digital Evolution
 
-This experience inspired [[99 ARCHIVES/Capacities/People/YOG1TRON|YOG1TRON]] to create a terminal-based game version of the case, where players navigate the clinical reasoning process while avoiding the wrath of a demanding attending physician. The digital implementation adds:
+This experience inspired [[YOG1TRON]] to create a terminal-based game version of the case, where players navigate the clinical reasoning process while avoiding the wrath of a demanding attending physician. The digital implementation adds:
 
 - Anxiety meters to simulate the stress of clinical decision-making
 - Clinical pearl collection as achievement mechanics
@@ -89,7 +89,7 @@ This experience inspired [[99 ARCHIVES/Capacities/People/YOG1TRON|YOG1TRON]] to 
 - Diagnostic reputation tracking to simulate professional development
 
 > [!info] Want to play?
-> Check out the [[notes/clinical-games/ddxRAMPY|ddxRAMPY: Pheochromocytoma Edition]] terminal game to test your own diagnostic abilities!
+> Check out the [[ddxCROOK]] terminal game to test your own diagnostic abilities!
 
 ## Lessons for Clinical Educators
 

@@ -28,7 +28,7 @@ well, *go on*, choose yo fate:
 
 ## 📜 the lore
 
-- read the _REAL_ story behind why this site called the 'mf korok4est.
+- read the _REAL_ story behind why this site called the 'mf [[korok4est]].
 
 
 ```poetry
