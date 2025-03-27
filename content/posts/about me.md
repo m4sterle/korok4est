@@ -24,7 +24,7 @@ There was just one problem.
 
 Ironically, it wasn't until I was already in medical school that I discovered my authentic answer to the dreaded "why medicine?" question that haunts every medical school application and interview.
 
-Throughout my time at Dell, I realized I had secretly signed up to play one epic, never-ending [[posts/game of clue|game of CLUE]] for a living—and I *loved* it. The process of differential diagnosis—collecting clues, ruling out suspects, making your final accusation—lit up my brain in ways nothing else had before.
+Throughout my time at in medical school, I realized I had secretly signed up to play one epic, never-ending [[posts/game of clue|game of CLUE]] for a living—and I *loved* it. The process of differential diagnosis—collecting clues, ruling out suspects, making your final accusation—lit up my brain in ways nothing else had before.
 
 Clinical reasoning wasn't just another skill to master; it was a fundamental way of seeing the world that matched how my mind naturally works. At this point, every physician should be carrying a magnifying glass alongside their stethoscope, because fundamentally, **they're detectives solving the mysteries of human suffering**. This realization made Detective Le come alive.
 
