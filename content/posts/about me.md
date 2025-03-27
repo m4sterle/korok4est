@@ -8,7 +8,7 @@ tags:
 
 ## The Unexpected Plot Twist
 
-Hi! I'm a former medical student who's currently navigating an unexpected (and honestly, terrifying-yet-somehow-exciting?) detour in my career journey. About two months ago, I withdrew from Dell Medical School after a period of intense struggle, and I'm now finding myself at a fascinating crossroads between medicine, technology, and creative expression.
+Hi! I'm a former medical student who's currently navigating an unexpected (and honestly, terrifying-yet-somehow-exciting?) detour in my career journey. About two months ago, I withdrew from medical school after a period of intense struggle, and I'm now finding myself at a fascinating crossroads between medicine, technology, and creative expression.
 
 This isn't the story I expected to be telling. But somehow, it's becoming a story I'm increasingly curious to live.
 
@@ -16,7 +16,7 @@ This isn't the story I expected to be telling. But somehow, it's becoming a stor
 
 My journey began with what feels like the archetypal first-gen narrative: Vietnamese girl born to immigrant parents who sacrificed *everything* for their children's future. I internalized the classic immigrant child imperative early—work harder than everyone else, achieve at all costs, bring honor to family through conventional success metrics.
 
-And I delivered on that promise, becoming salutatorian of my high school, crushing my science courses, and eventually earning acceptance to Dell Medical School (with its impossible 2-3% acceptance rate). The path seemed clear and validated—I was becoming the doctor my family had dreamed of.
+And I delivered on that promise, becoming salutatorian of my high school, crushing my science courses, and eventually [[posts/medical school timeline|earning acceptance to medical school with its impossible 1-2%]]. The path seemed clear and validated—I was becoming the doctor my family had dreamed of.
 
 There was just one problem.
 
